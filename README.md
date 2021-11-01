@@ -4,13 +4,15 @@ My practise file: https://www.figma.com/file/3nhoey5iwILGqFHJ53XqIT/Practise
 Summary:
 
 Stages of design:
-1) Wireframe
+1) Wireframe - Here a rough sketch is done of the page with details telling the links between components, etc.
+
 ![Screenshot (472)](https://user-images.githubusercontent.com/34264682/139640957-75921749-650e-498d-b53e-9411afab6b98.png)
 
-2) Mockup
+2) Mockup - Here we make a page which is not exactly the page bit like a skeleton on which further design are applied.
+
 ![Screenshot (474)](https://user-images.githubusercontent.com/34264682/139641311-021fad77-2c49-4594-8df0-1e5a0100ce67.png)
 
-3) Design
+3) Design - This is where the complete page is done with all the details and design.
 
 ![Screenshot (476)](https://user-images.githubusercontent.com/34264682/139641656-b3a124d7-f133-473e-82ad-4cd33f12caa9.png)
 
