@@ -22,6 +22,8 @@ http://www.uigoodies.com/
 
 https://fontawesome.com/
 
+https://shortcuts.design/tools/toolspage-figma/
+
 https://www.figma.com/templates/ , https://www.figma.com/community/explore , https://www.figma.com/community/plugins
 
 https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/
