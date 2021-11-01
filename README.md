@@ -1,7 +1,8 @@
 # Figma
 My practise file: https://www.figma.com/file/3nhoey5iwILGqFHJ53XqIT/Practise
 
-Notes:
+Summary:
+
 Stages of design:
 1) Wireframe
 ![Screenshot (472)](https://user-images.githubusercontent.com/34264682/139640957-75921749-650e-498d-b53e-9411afab6b98.png)
@@ -9,7 +10,8 @@ Stages of design:
 2) Mockup
 ![Screenshot (474)](https://user-images.githubusercontent.com/34264682/139641311-021fad77-2c49-4594-8df0-1e5a0100ce67.png)
 
-4) Design
+3) Design
+
 ![Screenshot (476)](https://user-images.githubusercontent.com/34264682/139641656-b3a124d7-f133-473e-82ad-4cd33f12caa9.png)
 
 Tools:
@@ -22,7 +24,7 @@ https://www.figma.com/templates/ , https://www.figma.com/community/explore , htt
 
 https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/
 
-Youtube:
+Tutorials:
 
 https://youtu.be/c9Wg6Cb_YlU
 
