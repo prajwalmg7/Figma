@@ -30,12 +30,16 @@ https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/
 
 Tutorials:
 
+Figma:
 https://youtu.be/c9Wg6Cb_YlU
 
 https://youtu.be/Gu1so3pz4bA
 
+Making it responsive:
 https://youtu.be/FQXi15Ihoqw
 
+Design to HTML:
 https://youtu.be/G4Z0E9uEb0o
 
+Design to React:
 https://youtu.be/ovEaO8MY0Z8
