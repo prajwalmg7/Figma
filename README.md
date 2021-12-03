@@ -30,13 +30,12 @@ https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/
 
 Tutorials:
 
-Figma:
-
-
 https://youtu.be/c9Wg6Cb_YlU
 
 
 https://youtu.be/Gu1so3pz4bA
+
+(Code part):
 
 Making it responsive:
 
